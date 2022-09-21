@@ -17,6 +17,9 @@ pip3 install SQLAlchemy Flask-SQLAlchemy
 pip3 install flask_login
 
 ## How to run app
-'''
+
+# 👇️ for Python 2
+python main.py
+
+# 👇️ for python 3 
 python3 main.py
-'''
