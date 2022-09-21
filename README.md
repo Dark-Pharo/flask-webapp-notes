@@ -12,9 +12,9 @@ A web application that allows to signup and add notes
 - pip install flask_login
 
 # 👇️ for python 3 
-pip3 install Flask
-pip3 install SQLAlchemy Flask-SQLAlchemy
-pip3 install flask_login
+- pip3 install Flask
+- pip3 install SQLAlchemy Flask-SQLAlchemy
+- pip3 install flask_login
 
 ## How to run app
 
