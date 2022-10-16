@@ -1,3 +1,8 @@
 *.pyc
 .vscode
 .pytest_cache
+# Environments
+venvNotes/
+
+__pycache__/
+*.py[cod]
